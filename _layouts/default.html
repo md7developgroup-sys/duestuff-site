@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: 'ru' }}">
+<html lang="{{ page.lang | default: site.lang | default: 'ru' }}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -85,7 +85,7 @@
 {{ content }}
 </main>
 <footer>
-  <p>DueStuff · <a href="/">о приложении</a> · <a href="/privacy/">политика конфиденциальности</a> · <a href="mailto:support@duestuff.com">support@duestuff.com</a></p>
+  <p>DueStuff · <a href="/">о приложении</a> · <a href="/privacy/">политика конфиденциальности</a> · <a href="/privacy/en/">privacy policy</a> · <a href="/delete-account/">удалить аккаунт</a> · <a href="mailto:support@duestuff.com">support@duestuff.com</a></p>
 </footer>
 <script>
   // Единственный скрипт на сайте: оборачивает таблицы в прокручиваемый блок,

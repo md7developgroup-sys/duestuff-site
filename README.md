@@ -5,8 +5,10 @@
 
 ```
 index.md                → https://duestuff.com/
-privacy/index.md        → https://duestuff.com/privacy/
-_layouts/default.html   → вёрстка обеих страниц
+privacy/index.md        → https://duestuff.com/privacy/          (docs/privacy-policy.md)
+privacy/en/index.md     → https://duestuff.com/privacy/en/       (docs/privacy-policy.en.md)
+delete-account/index.md → https://duestuff.com/delete-account/   (docs/account-deletion.md)
+_layouts/default.html   → вёрстка всех страниц
 CNAME                   → duestuff.com
 ```
 
