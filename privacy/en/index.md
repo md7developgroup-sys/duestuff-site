@@ -220,7 +220,8 @@ After confirmation:
 - the account record is deleted from Google's sign-in service together with the email
   address and password;
 - items, warranties, pictures, documents, subscriptions, maintenance tasks, rooms and
-  categories are erased from the phone; settings return to first launch.
+  categories are erased from the phone; settings return to first launch, except the
+  daily recognition counter.
 
 **Deletion is irreversible, and there is nowhere to restore data from** — we have no copy.
 If you need the catalogue, export a backup first: "Settings → Backup → Save a backup".
